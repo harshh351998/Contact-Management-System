@@ -8,7 +8,7 @@ https://github.com/harshh351998/Contact-Management-System/blob/main/demo.gif
 
 
 
-
+<p> <img align="center" alt="gif" src="https://github.com/harshh351998/Contact-Management-System/blob/main/demo.gif" width ="500" height ="320" /> </p>
 
 
 
