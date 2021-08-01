@@ -1,17 +1,18 @@
 # Contact Management System
 
-In this web application, a user can create, view and delete the contacts. Basically, CRUD operations are followed. 
+In this web application, a user can create, view and delete the contacts. Basically, CRUD (Create, Read, Update, and Delete) operations are followed. 
 
 ## Technology Stack
 
-1. Nodemon
-2. Express
-3. Body Parser
-4. Dotenv
-5. Morgan
-6. Mongoose
-7. Axios
-8. EJS
+1. Nodemon ( nodemon is a tool that helps develop node. js based applications by automatically restarting the node application when file changes in the directory are detected)
+2. Express ( Express. js is a free and open-source web application framework for Node. js. It is used for designing and building web applications quickly and easily. )
+3. Body Parser ( The bodyParser object exposes various factories to create middlewares. )
+4. Dotenv ( Dotenv is a zero-dependency module that loads environment variables from a .env file into process.env )
+5. Morgan ( It is s a HTTP request logger middleware for Node. js. It simplifies the process of logging requests to your web application. )
+6. Mongoose ( Mongoose is an Object Data Modeling (ODM) library for MongoDB and Node. js )
+7. Axios ( It is  is a promise based HTTP client for the browser and Node.js )
+8. EJS ( EJS is a simple templating language which is used to generate HTML markup with plain JavaScript. It also helps to embed JavaScript to HTML pages. )
+9. CSS ( Cascading Style Sheets are used for styling the ejs template pages.
 
 ## Project Architecture
 
