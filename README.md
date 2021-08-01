@@ -34,8 +34,7 @@ In this project I had Mongo db database which is document based unstructured typ
 8) Now click on Network Access option, which is present on left side tab below Database Access.
 9) Click on Add IP Address option. Select other option, "allow access from anywhere" and click on confirm button.
 10) Go back to cluster and click on connect option. Select the option, "connect your application".
-11) Copy the connection string url and paste on the project file name," config.env". See the sample.
-              MONGO_URI = mongodb+srv://admin:admin123@crud.zupxf.mongodb.net/CRUD?retryWrites=true&w=majority    
+11) Copy the connection string url and paste on the project file name," config.env". 
               
               
  ## Steps for running this web application.
