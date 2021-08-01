@@ -2,6 +2,17 @@
 
 In this web application, a user can create, view and delete the contacts. Basically, CRUD (Create, Read, Update, and Delete) operations are followed. 
 
+
+## Demo
+https://github.com/harshh351998/Contact-Management-System/blob/main/demo.gif
+
+
+
+
+
+
+
+
 ## Technology Stack
 
 1. Nodemon ( nodemon is a tool that helps develop node. js based applications by automatically restarting the node application when file changes in the directory are detected)
