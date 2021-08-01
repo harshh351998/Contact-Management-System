@@ -4,7 +4,7 @@ In this web application, a user can create, view and delete the contacts. Basica
 
 
 ## Demo
-https://github.com/harshh351998/Contact-Management-System/blob/main/demo.gif
+Contact Management System
 
 
 
